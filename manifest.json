@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Article Summarizer",
+    "name": "Briefly - AI Article Summarizer",
     "version": "1.0.0",
-    "description": "Lightning-fast AI article summaries with Groq and Gemini. Get 5-6 comprehensive bullet points in seconds. Translate to multiple languages.",
+    "description": "Read 10x faster. Summarize any article instantly with AI. Local & Private. Best alternative to lengthy reading.",
     "permissions": [
         "activeTab",
         "storage"

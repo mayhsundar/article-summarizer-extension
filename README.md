@@ -1,10 +1,11 @@
-# Article Summarizer - Chrome Extension
+# Briefly: AI Article Summarizer
 
 <div align="center">
 
-**⚡ AI-Powered Article Summarization with Lightning-Fast Speed**
+**⚡ Read Less, Know More**
 
-Get concise, intelligent summaries of any article with one click. Powered by Groq and Gemini AI.
+Summarize any article instantly with AI. Local & Private. Best alternative to lengthy reading.  
+Powered by Groq's LPU and Google Gemini.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -30,8 +31,8 @@ Get concise, intelligent summaries of any article with one click. Powered by Gro
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/article-summarizer.git
-   cd article-summarizer
+   git clone git@github.com:mayhsundar/briefly.git
+   cd briefly
    ```
 
 2. **Load in Chrome**
@@ -106,7 +107,7 @@ Press `Ctrl/Cmd + Shift + S` to toggle the summary panel.
 ### File Structure
 
 ```
-article-summarizer/
+briefly/
 ├── manifest.json           # Extension configuration
 ├── content.js             # Main content script
 ├── ai-summarizer.js       # AI provider integration
@@ -176,7 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-Found a bug or have a feature request? [Open an issue](https://github.com/mayhsundar/article-summarizer-extension/issues)
+Found a bug or have a feature request? [Open an issue](https://github.com/mayhsundar/briefly/issues)
 
 ---
 

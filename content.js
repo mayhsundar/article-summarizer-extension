@@ -141,8 +141,8 @@
            </button>
         </div>
         <button class="summarizer-close-btn" aria-label="Close summary">×</button>
-        <h2 class="summarizer-title">📝 Article Summary</h2>
-        <p class="summarizer-subtitle">Key points extracted just for you</p>
+        <h2 class="summarizer-title">⚡ Briefly</h2>
+        <p class="summarizer-subtitle">Read less, know more. ⚡</p>
       </div>
       <div class="summarizer-content" id="summarizer-content">
         <!-- Content will be loaded here -->
@@ -483,8 +483,8 @@
         // Reset Header
         const titleEl = document.querySelector('.summarizer-title');
         const subtitleEl = document.querySelector('.summarizer-subtitle');
-        if (titleEl) titleEl.innerText = '📝 Article Summary';
-        if (subtitleEl) subtitleEl.innerText = 'Key points extracted just for you';
+        if (titleEl) titleEl.innerText = '⚡ Briefly';
+        if (subtitleEl) subtitleEl.innerText = 'Read less, know more. ⚡';
 
         // Reset setup screen placeholders and descriptions if they exist
         const contentDiv = document.getElementById('summarizer-content');

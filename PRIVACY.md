@@ -1,10 +1,10 @@
-# Privacy Policy for Article Summarizer
+# Privacy Policy for Briefly
 
 **Last Updated: January 9, 2026**
 
 ## Overview
 
-Article Summarizer ("the Extension") is committed to protecting your privacy. This privacy policy explains how we handle your data when you use our Chrome extension.
+Briefly ("the Extension") is committed to protecting your privacy. This privacy policy explains how we handle your data when you use our Chrome extension.
 
 ## Data Collection
 
@@ -96,12 +96,12 @@ We may update this privacy policy from time to time. Any changes will be reflect
 ## Open Source
 
 This Extension is open source. You can review the complete source code at:
-[https://github.com/mayhsundar/article-summarizer-extension](https://github.com/mayhsundar/article-summarizer-extension)
+[https://github.com/mayhsundar/briefly](https://github.com/mayhsundar/briefly)
 
 ## Contact
 
 If you have any questions or concerns about this privacy policy, please contact us by opening an issue on our GitHub repository:
-[https://github.com/mayhsundar/article-summarizer-extension/issues](https://github.com/mayhsundar/article-summarizer-extension/issues)
+[https://github.com/mayhsundar/briefly/issues](https://github.com/mayhsundar/briefly/issues)
 
 ## Compliance
 
