@@ -1,6 +1,7 @@
+<div align="center">
 # Briefly: AI Article Summarizer
 
-<div align="center">
+
 
 **⚡ Read Less, Know More**
 
